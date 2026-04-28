@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+*.venv
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Other
+*.DS_Store
